@@ -1,0 +1,10 @@
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.vscode
+**/package-lock.json
+dump.rdb
+node_modules/
+.DS_Store
+dist
